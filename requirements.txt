@@ -1,8 +1,0 @@
-Django>=4.0
-djangorestframework
-psycopg2
-djangorestframework-simplejwt
-python-telegram-bot
-SQLAlchemy==1.4.0
-celery[redis]==5.2.7
-flower
